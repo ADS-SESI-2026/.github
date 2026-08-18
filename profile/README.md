@@ -41,7 +41,7 @@ Com o Student Pack você garante, entre outros benefícios, o uso **gratuito do 
 
 > **Dica:** Após a aprovação, ative o Copilot em [github.com/settings/copilot](https://github.com/settings/copilot) e instale a extensão no VS Code ou na IDE de sua preferência.
 
-## 📚 Recursos Adicionais
+## Recursos Adicionais
 
 - [Documentação do Git](https://git-scm.com/doc)
 - [GitHub Skills](https://skills.github.com/) — cursos interativos gratuitos diretamente no GitHub
